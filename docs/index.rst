@@ -13,3 +13,10 @@ Welcome to bluetrum_sdk_doc's documentation!
 
    getting-start/abstract
    getting-start/beforehand
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 如何参与项目
+   :numbered:
+
+   contribution/be-together
