@@ -11,4 +11,5 @@ Welcome to bluetrum_sdk_doc's documentation!
    :caption: 前言
    :numbered:
 
-   getting-start/test
+   getting-start/abstract
+   getting-start/beforehand
