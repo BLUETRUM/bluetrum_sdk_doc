@@ -16,6 +16,16 @@ Welcome to bluetrum_sdk_doc's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: 外设使用
+   :numbered:
+   
+   peripheral/gpio
+   peripheral/uart
+   peripheral/sd
+   peripheral/dac
+
+.. toctree::
+   :maxdepth: 2
    :caption: 如何参与项目
    :numbered:
 
